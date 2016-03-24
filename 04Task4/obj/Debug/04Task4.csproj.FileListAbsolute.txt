@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\Lab-20-2015\04Task4\bin\Debug\04Task4.exe.config
+E:\VISUAL-STUDIO\Lab-20-2015\04Task4\bin\Debug\04Task4.exe
+E:\VISUAL-STUDIO\Lab-20-2015\04Task4\bin\Debug\04Task4.pdb
+E:\VISUAL-STUDIO\Lab-20-2015\04Task4\obj\Debug\04Task4.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\Lab-20-2015\04Task4\obj\Debug\04Task4.exe
+E:\VISUAL-STUDIO\Lab-20-2015\04Task4\obj\Debug\04Task4.pdb

@@ -1,0 +1,6 @@
+E:\VISUAL-STUDIO\Lab-20-2015\03Task3\bin\Debug\03Task3.exe.config
+E:\VISUAL-STUDIO\Lab-20-2015\03Task3\bin\Debug\03Task3.exe
+E:\VISUAL-STUDIO\Lab-20-2015\03Task3\bin\Debug\03Task3.pdb
+E:\VISUAL-STUDIO\Lab-20-2015\03Task3\obj\Debug\03Task3.csprojResolveAssemblyReference.cache
+E:\VISUAL-STUDIO\Lab-20-2015\03Task3\obj\Debug\03Task3.exe
+E:\VISUAL-STUDIO\Lab-20-2015\03Task3\obj\Debug\03Task3.pdb
